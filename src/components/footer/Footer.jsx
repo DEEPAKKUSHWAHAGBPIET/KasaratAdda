@@ -11,7 +11,7 @@ const Footer = () => {
         <h2>
           Follow me on
           <a
-            href="https://www.linkedin.com/in/the-mustafa-khaled/"
+            href="https://www.linkedin.com/in/deepak-kushwaha-b81b731a2/"
             target="_blank">
             Linked In
           </a>
@@ -32,7 +32,7 @@ const Footer = () => {
             <span>Call :</span>
             <p>+201151747091</p>
             <span>Email :</span>
-            <p>mustafakhaledinfo@gmail.com</p>
+            <p>csedeepak2021@gmail.com</p>
           </div>
         </div>
         <div>
@@ -56,7 +56,7 @@ const Footer = () => {
               target="_blank">
               <i className="fa-brands fa-linkedin"></i>
             </a>
-            <a href="https://github.com/mustafa-khaled" target="_blank">
+            <a href="https://github.com/DEEPAKKUSHWAHAGBPIET" target="_blank">
               <i className="fa-brands fa-github"></i>
             </a>
           </div>
