@@ -30,7 +30,7 @@ const Footer = () => {
           </p>
           <div className={styles.info}>
             <span>Call :</span>
-            <p>+201151747091</p>
+            <p>8875963226</p>
             <span>Email :</span>
             <p>csedeepak2021@gmail.com</p>
           </div>
