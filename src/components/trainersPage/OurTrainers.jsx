@@ -25,7 +25,7 @@ const OurTrainers = () => {
                 <h5>Specializations :</h5>
                 <p>Cross fit Expert, Nutrition & Rehab</p>
                 <Link
-                  href="https://www.linkedin.com/in/the-mustafa-khaled/"
+                  href="https://www.linkedin.com/in/deepak-kushwaha-b81b731a2/"
                   target="_blank">
                   <i className="fa-brands fa-linkedin"></i>
                 </Link>
