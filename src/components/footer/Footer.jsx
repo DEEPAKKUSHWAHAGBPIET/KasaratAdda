@@ -52,7 +52,7 @@ const Footer = () => {
           <button>Subscribe</button>
           <div className={styles.footer_icons}>
             <a
-              href="https://www.linkedin.com/in/the-mustafa-khaled/"
+              href="https://www.linkedin.com/in/deepak-kushwaha-b81b731a2/"
               target="_blank">
               <i className="fa-brands fa-linkedin"></i>
             </a>
