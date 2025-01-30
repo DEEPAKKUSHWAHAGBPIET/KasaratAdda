@@ -152,7 +152,7 @@ export const trainersData = [
     nam: "Amanda",
     title: "Crosscut Expert, Nutrition & Rehab",
     image: trainer1,
-    to: "https://www.linkedin.com/in/the-mustafa-khaled/",
+    to: "https://www.linkedin.com/in/deepak-kushwaha-b81b731a2/",
   },
 
   {
@@ -160,7 +160,7 @@ export const trainersData = [
     nam: "Madison Froning",
     title: "Crosscut Expert, Nutrition & Rehab",
     image: trainer2,
-    to: "https://www.linkedin.com/in/the-mustafa-khaled/",
+    to: "https://www.linkedin.com/in/deepak-kushwaha-b81b731a2/",
   },
 
   {
@@ -168,7 +168,7 @@ export const trainersData = [
     nam: "Joshua Frankilin",
     title: "Crosscut Expert, Nutrition & Rehab",
     image: trainer3,
-    to: "https://www.linkedin.com/in/the-mustafa-khaled/",
+    to: "https://www.linkedin.com/in/deepak-kushwaha-b81b731a2/",
   },
 ];
 
@@ -454,13 +454,13 @@ export const contactInfoData = [
     id: 1,
     title: "Phone",
     icon: "fa-solid fa-phone",
-    cta: "+20 1151747091",
+    cta: "8875968898",
   },
   {
     id: 2,
     title: "Email",
     icon: "fa-solid fa-envelope",
-    cta: "mustafakhaledinfo@gmail.com",
+    cta: "demo@gmail.com",
   },
 
   {
